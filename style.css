@@ -1,0 +1,50 @@
+body{
+    background: url(index2.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    display: flex;
+    padding-top: 109px;
+}
+input{
+    width: 300px;
+    height:60px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.text-area{
+    height: 120px;
+    text-align: top;
+}
+.terms{
+    height: auto;
+    align-content: left;
+}
+.title{
+    color:white;
+    text-align: center;
+    font-size: 34px;
+    font-weight: bold;
+    padding-right: 45px;
+    }
+
+.center-box{
+    background: linear-gradient(to top left, #ff0066 0%, #3366ff 100%);
+    width: 410px;
+    align-content: center;
+    padding-left: 69px;
+    padding-top: 20px;
+    
+}
+.file-upload{
+    height: 70px;
+}
+
+.send{
+    background: linear-gradient(to top left, #ff00ff 0%, #00ff99 99.9%);
+}
